@@ -19,7 +19,7 @@ img {
   width: 350px;
   margin-right: 2em;
   border-radius: 5px;
-  box-shadow: 0 0 5px #800080, 0 0 25px #800080, 0 0 50px #800080, 0 0 200px #800080;
+  box-shadow: 0 0 5px #290f3f, 0 0 25px #290f3f, 0 0 50px #290f3f, 0 0 200px #290f3f;
 }
 
 nav {
@@ -37,7 +37,7 @@ h1 {
   text-align: center;
   margin-bottom: 0;
   color: #290f3f;
-  text-shadow: 0 0 5px #800080, 0 0 25px #800080, 0 0 50px #800080, 0 0 200px #800080;
+  text-shadow: 0 0 5px #290f3f, 0 0 25px #290f3f, 0 0 50px #290f3f, 0 0 200px #290f3f;
 }
 
 h2 {
