@@ -8,7 +8,7 @@ html {
 body {
   display: flex;
   color: #ffffff;
-  background: #151515;
+  background: #09060c;
   margin-right: 9em;
   padding: 1em;
   font-family:monospace;
@@ -36,7 +36,7 @@ h1 {
   grid-column: 1/-1;
   text-align: center;
   margin-bottom: 0;
-  color: #800080;
+  color: #290f3f;
   text-shadow: 0 0 5px #800080, 0 0 25px #800080, 0 0 50px #800080, 0 0 200px #800080;
 }
 
